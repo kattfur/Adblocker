@@ -1,0 +1,8 @@
+googletagservices.com
+doubleclick.net
+analytics.google.com
+securepubads.g.doubleclick.net
+pagead2.googlesyndication.com
+googlesyndication.com
+googletagmanager.com
+www.googletagmanager.com
